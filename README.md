@@ -1,6 +1,6 @@
 # Manuel F. Chavez - Mechatronics Professional
 
-![Profile Picture]()
+
 ## Introduction - Welcome to my profile README!
 
 I am Manuel F. Chavez, a passionate Mechatronics professional specializing in CAD design, software/hardware development, and electronics.
