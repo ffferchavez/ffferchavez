@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-Welcome to my profile README!
+Welcome to my README profile!
 
 I am Manuel F. Chavez, a passionate Mechatronics professional specializing in CAD design, software/hardware development, and electronics.
 Over the course of my 11-year career, I have gained extensive experience in various industries, including automotive, materials, manufacturing, and design.
