@@ -4,8 +4,8 @@
 
 Welcome to my README profile!
 
-I am Manuel F. Chavez, a passionate Mechatronics professional specializing in Software/hardware development, CAD design and electronics.
-Over the course of my 12-year career, I have gained extensive experience in various industries, including automotive, materials, manufacturing, and design.
+I am Manuel, a passionate Mechatronics professional specialized in Full-Stack Web Development.
+Over the course of my 12-year career, I have gained extensive experience in various industries, including Automotive, Materials, Manufacturing and Design.
 This diverse background has provided me with valuable insights and a well-rounded perspective on problem-solving.
 
 ## Approach and Skills:
