@@ -41,6 +41,6 @@ With this comprehensive skill set, I am prepared to tackle diverse projects.
 
 I am excited to leverage my skills, knowledge, and enthusiasm to contribute to innovative projects and make a positive impact in the field of Engineering.
 If you would like to collaborate or have any inquiries,
-please feel free to reach out to me via email at ffferchavez@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/ffferchavez/).
+please feel free to reach out to me via email at manuel.fernando.info@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/ffferchavez/).
 
 Let's get in touch and see how can we contribute!
