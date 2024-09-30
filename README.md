@@ -18,7 +18,7 @@ Effective communication and strong teamwork skills enable me to collaborate seam
 ## Education and Multilingual Proficiency:
 
 My educational background includes studies in Mechatronics Systems Engineering, equipping me with a solid foundation in the field.
-Furthermore, I am proficient in multiple languages, including English, Spanish, German, Greek, and Chinese.
+Furthermore, I am proficient in multiple languages, including English, Spanish, German and Greek.
 This linguistic versatility allows me to engage and connect with individuals from diverse cultural backgrounds.
 
 ## Hobbies and Interests:
@@ -26,21 +26,21 @@ This linguistic versatility allows me to engage and connect with individuals fro
 Beyond my professional pursuits, I enjoy engaging in various hobbies.
 3D printing, laser engraving and cutting are among my favorite activities, allowing me to explore creativity and innovation.
 I am also an avid self-learner, constantly seeking new knowledge and staying up-to-date with the latest advancements.
-Additionally, I find solace in reading books and find joy in playing musical instruments.
+Additionally, I find solace in reading/listening books and find joy in playing guitar, bass and keyboard.
 
 ## Work Ethic and Expertise:
 
 With a strong work ethic and a "get things done" mentality, I am well-equipped to contribute to projects and drive tangible results.
 I excel in critical thinking, problem-solving, and impeccable self-management.
 Taking initiative and making informed decisions come naturally to me, enabling me to navigate complex challenges with ease.
-My expertise lies in CAD design, microcontrollers, electronics, and 3D printing machines/prototyping.
+My additional expertise lies in CAD design, microcontrollers, electronics, and 3D printing machines/prototyping.
 Furthermore, I possess hands-on experience with diode lasers, honed through both academic studies and practical work experience.
-With this comprehensive skill set, I am prepared to tackle diverse engineering projects.
+With this comprehensive skill set, I am prepared to tackle diverse projects.
 
 ## Conclusion:
 
 I am excited to leverage my skills, knowledge, and enthusiasm to contribute to innovative projects and make a positive impact in the field of Engineering.
 If you would like to collaborate or have any inquiries,
-please feel free to reach out to me via email at ffferchavez@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/manuelchavez).
+please feel free to reach out to me via email at ffferchavez@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/ffferchavez/).
 
-Let's embark on a journey of innovation together!
+Let's get in touch and see how can we contribute!
