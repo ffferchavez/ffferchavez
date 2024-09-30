@@ -1,4 +1,5 @@
-# Manuel F. Chavez - Full Stack Developer
+# Manuel Fernando
+# Full Stack Developer
 
 ## Introduction:
 
