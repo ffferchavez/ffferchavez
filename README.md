@@ -1,46 +1,44 @@
-# Manuel Fernando
-# Full Stack Developer
+# Manuel Fernando  
+### Full Stack Developer | AI Enthusiast | Mechatronics Engineer  
 
-## Introduction:
+## 👋 Welcome to My GitHub Profile!  
 
-Welcome to my README profile!
+I’m Manuel, a Mechatronics Engineer turned Full-Stack Developer with a strong passion for **Artificial Intelligence** and emerging technologies. Over the past 13 years, I have worked across industries such as **Tech, Automotive, Materials, Manufacturing, and Design**, gaining valuable insights into problem-solving and innovation.  
 
-I am Manuel, a passionate Mechatronics professional specialized in Full-Stack Web Development.
-Over the course of my 12-year career, I have gained extensive experience in various industries, including Automotive, Materials, Manufacturing and Design.
-This diverse background has provided me with valuable insights and a well-rounded perspective on problem-solving.
+## 🚀 What I Do  
 
-## Approach and Skills:
+I specialize in:    
+- **Full-Stack Web Development** – Building scalable, efficient, and user-friendly applications.
+- **AI & ML** – Exploring deep learning, NLP, agentic AI and automation.  
+- **Mechatronics & Prototyping** – CAD/3D design, 3D printing and microcontrollers.  
 
-I am known for my proactive and adaptable approach, always eager to embrace new challenges and expand my knowledge.
-Precision and attention to detail are fundamental to my work, and I consistently strive for excellence in every task I undertake.
-Effective communication and strong teamwork skills enable me to collaborate seamlessly with colleagues, bridging the gap between technical and non-technical audiences when conveying complex concepts.
+My expertise blends **software, hardware, and AI/ML**, allowing me to create smart solutions that bridge the digital and physical worlds.  
 
-## Education and Multilingual Proficiency:
+## 🔍 My Approach  
 
-My educational background includes studies in Mechatronics Systems Engineering, equipping me with a solid foundation in the field.
-Furthermore, I am proficient in multiple languages, including English, Spanish, German and Greek.
-This linguistic versatility allows me to engage and connect with individuals from diverse cultural backgrounds.
+I am:  
+✔ **Proactive & Adaptive** – Always eager to embrace challenges and expand my knowledge.  
+✔ **Detail-Oriented** – Precision and efficiency drive my work.  
+✔ **Multilingual** – Fluent in German, English and Spanish. Facilitating global collaboration.  
 
-## Hobbies and Interests:
+## 🎯 Current Focus: Artificial Intelligence
 
-Beyond my professional pursuits, I enjoy engaging in various hobbies.
-3D printing, laser engraving and cutting are among my favorite activities, allowing me to explore creativity and innovation.
-I am also an avid self-learner, constantly seeking new knowledge and staying up-to-date with the latest advancements.
-Additionally, I find solace in reading/listening books and find joy in playing guitar, bass and keyboard.
+My curiosity for **AI** has led me to explore **AI agents, machine learning models, neural networks, automation, and AI-driven applications**. I enjoy diving into the latest advancements, experimenting with innovative solutions, and learn learn learn.  
 
-## Work Ethic and Expertise:
+## 📚 Beyond Coding  
 
-With a strong work ethic and a "get things done" mentality, I am well-equipped to contribute to projects and drive tangible results.
-I excel in critical thinking, problem-solving, and impeccable self-management.
-Taking initiative and making informed decisions come naturally to me, enabling me to navigate complex challenges with ease.
-My additional expertise lies in CAD design, microcontrollers, electronics, and 3D printing machines/prototyping.
-Furthermore, I possess hands-on experience with diode lasers, honed through both academic studies and practical work experience.
-With this comprehensive skill set, I am prepared to tackle diverse projects.
+When I'm not working on tech, you'll find me:  
+🎸 Playing **guitar**  
+📚 Reading/listening to **books/audiobooks**  
+🛠️ Experimenting with **3D printing & laser cutting**  
 
-## Conclusion:
+## 💡 Let’s Connect!  
 
-I am excited to leverage my skills, knowledge, and enthusiasm to contribute to innovative projects and make a positive impact in the field of Engineering.
-If you would like to collaborate or have any inquiries,
-please feel free to reach out to me via email at manuel.fernando.info@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/ffferchavez/).
+I’m always open to collaborations, discussions, and exciting projects in AI, software development, and engineering. Feel free to reach out!  
 
-Let's get in touch and see how can we contribute!
+📩 **Email:** manuel.fernando.info@gmail.com  
+🔗 **GitHub:** [ffferchavez](https://github.com/ffferchavez)  
+🌟 **LinkedIn:** [ffferchavez](https://de.linkedin.com/in/ffferchavez/de)  
+
+Let’s create something together! 🚀  
+
