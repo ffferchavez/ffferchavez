@@ -21,7 +21,7 @@ I am:
 ✔ **Detail-Oriented** – Precision and efficiency drive my work.  
 ✔ **Multilingual** – Fluent in German, English and Spanish. Facilitating global collaboration.  
 
-## 🎯 Current Focus: Artificial Intelligence
+## 🎯 Current Focus: Artificial Intelligence in Web Development
 
 My curiosity for **AI** has led me to explore **AI agents, machine learning models, neural networks, automation, and AI-driven applications**. I enjoy diving into the latest advancements, experimenting with innovative solutions, and learn learn learn.  
 
