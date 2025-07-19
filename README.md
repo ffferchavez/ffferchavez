@@ -17,9 +17,9 @@ My expertise blends **software, hardware, and AI**, allowing me to create smart 
 ## 🔍 My Approach  
 
 I am:  
-✔ **Proactive & Adaptive** – Always eager to embrace challenges and expand my knowledge.  
-✔ **Detail-Oriented** – Precision and efficiency drive my work.  
-✔ **Multilingual** – Fluent in German, English and Spanish. Facilitating global collaboration.  
+**Proactive & Adaptive** – Always eager to embrace challenges and expand my knowledge.  
+**Detail-Oriented** – Precision and efficiency drive my work.  
+**Multilingual** – Fluent in German, English and Spanish. Facilitating global collaboration.  
 
 ## Current Focus: Artificial Intelligence in Web Development
 
